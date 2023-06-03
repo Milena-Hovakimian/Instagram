@@ -1,0 +1,53 @@
+.add-img {
+    margin-top: 50px;
+    text-align: center;
+}
+.add-img button {
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    background-color: rgb(104, 104, 225);
+    font-weight: bold;
+    
+}
+
+.gall-icon {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.add-img h1 {
+    margin-bottom: 50px;
+}
+.add-img .inp1
+{
+    width: 31%;
+    margin-bottom: 5px;
+    padding: 8px 12px;
+    border: 1px solid #dbdbdb;
+    border: 1px solid;
+    box-sizing: border-box;
+    border-radius: 3px;
+    display: block;
+   margin-bottom: 5px;
+   position: relative;
+   left: 36%;
+}
+.add-img .inp2
+{
+    width:31%;
+    margin-bottom: 5px;
+    padding: 8px 12px;
+    border: 1px solid #dbdbdb;
+    border: 1px solid;
+    box-sizing: border-box;
+    border-radius: 3px;
+    display: block;
+   margin-bottom: 5px;
+   position: relative;
+   left: 36%;
+
+   
+}

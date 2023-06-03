@@ -1,0 +1,47 @@
+
+export const Search =[
+    {
+        "id":1,
+        "inst_name":'meri_gevorgyan'
+    },
+    {
+        "id":2,
+        "inst_name":'nona_avetisyan'
+    },
+    {
+        "id":3,
+        "inst_name":'ann_14'
+    },
+    {
+        "id":4,
+        "inst_name":'lus_787'
+    },
+    {
+        "id":5,
+        "inst_name":'armine_tumanyan'
+    },
+    {
+        "id":6,
+        "inst_name":'nonn_25'
+    },
+    {
+        "id":7,
+        "inst_name":'armin_stepanyann'
+    },
+    {
+        "id":8,
+        "inst_name":'_999m_'
+    },
+    {
+        "id":9,
+        "inst_name":'hakobyan_79'
+    },
+    {
+        "id":10,
+        "inst_name":'anna_hovsepyan'
+    },
+    {
+        "id":11,
+        "inst_name":'petrosyan_54'
+    }
+]

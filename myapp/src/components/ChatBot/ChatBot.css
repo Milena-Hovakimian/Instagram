@@ -1,0 +1,78 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+  
+ }       
+.box{
+    height:100vh ;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box .chatForm{
+    height: 800px;
+    width: 800px;
+    border: 1px solid;
+    position: relative;
+    overflow: hidden;
+}
+.box .chatForm .send{
+    position: absolute;
+    bottom: 2%;
+    left: 32%;
+}
+.box .chatForm .send input{
+    width: 400px;
+    height: 35px;
+    border-radius: 20px;
+}
+.box .chatForm .send button{
+    height: 35px;
+    width: 80px;
+    border-radius: 20px;
+}
+.box .chatForm .people{
+    height: 100%;
+    width: 200px;
+    border: 1px solid;
+
+
+}
+.box .chatForm .people .item{
+    height: 10%;
+    width: 100%;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+
+}
+.box .chatForm .people .item img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 20px;
+}
+.box .chatForm .name{
+    width: 100%;
+    height: 10%;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.box .chatForm .name .icon img{
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+.box .chatForm .name .icon img:nth-child(1){
+    width: 23px;
+    height: 30px;
+}
+.box .chatForm .name .text p{
+    font-weight: bold;
+}
